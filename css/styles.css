@@ -50,7 +50,7 @@ body {
   font-weight: 500;
   color: var(--navy-blue);
 }
-.address-list {
+.address {
   font-style: normal;
 }
 .link:hover,
@@ -166,6 +166,6 @@ body {
 .portfolio-heading {
   font-weight: 500;
   font-size: 20px;
-  letter-spacing: 0.02em
   color: var(--navy-blue);
+  letter-spacing: 0.02em;
 }
