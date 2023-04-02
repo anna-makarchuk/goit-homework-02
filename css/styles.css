@@ -73,6 +73,7 @@ body {
   color: var(--white);
   background-color: var(--iris);
   font-family: inherit;
+  cursor: pointer;
 }
 .hero-btn:hover,
 .hero-btn :focus {
@@ -140,6 +141,7 @@ body {
   color: inherit;
   background-color: var(--cloud);
   font-family: inherit;
+  cursor: pointer;
 }
 .portfolio-btn:hover,
 .portfolio-btn:focus {
