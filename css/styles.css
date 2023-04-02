@@ -84,7 +84,7 @@ body {
 .hero-btn:hover {
   background-color: var(--ocean);
 }
-.hero-btn :focus {
+.hero-btn:focus {
   background-color: var(--ocean);
 }
 .advantages-title {
